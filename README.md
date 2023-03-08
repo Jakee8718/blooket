@@ -1,4 +1,4 @@
-#Credits to Minesraft2
+# Credits to Minesraft2
 
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
 <h2 align="center">Check out the <a href="https://github.com/Minesraft2/Blooket-Cheats/tree/content">content branch</a> for more cheats</h2>
@@ -15,7 +15,7 @@
 - [x] GUI Color Customizations tab
 
 ## Information
-#Made by Minesraft2
+# Made by Minesraft2
 
 <details><summary><h3>How to use</h3></summary>
 
